@@ -54,7 +54,7 @@ ugdlkjoisdiojsdofj
 ### chap2
 ugdlkjoisdiojsdofj
 
-### chap3
+## chap3
 ugdlkjoisdiojsdofjác
 d
 
@@ -70,5 +70,5 @@ vs
 d
 
 
-### <a name="chap3.2"></a>Chương 3
+# <a name="chap3.2"></a>Chương 3
 ugdlkjoisdiojsdofj
