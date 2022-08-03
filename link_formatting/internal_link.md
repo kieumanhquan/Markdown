@@ -6,7 +6,7 @@ MARKDOWN
 
 [chap3](#chap3)
 
-[Chương 3.2: ABC](#Chương3.2:ABC)
+[Chương 3](#chap3.2)
 
 .
 
@@ -70,5 +70,5 @@ vs
 d
 
 
-### <a name="Chương3.2:ABC"></a>Chương 3.2: ABC
+### <a name="chap3.2"></a>chap3.2
 ugdlkjoisdiojsdofj
