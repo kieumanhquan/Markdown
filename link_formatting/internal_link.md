@@ -1,6 +1,6 @@
 MARKDOWN
 
-[Chương 1.1: Abc](#Chương-1.1:-Abc)
+[Chương-1.1:-Abc](#Chương-1.1:-Abc)
 
 [chap2](#chap2)
 
