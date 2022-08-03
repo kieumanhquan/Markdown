@@ -1,12 +1,12 @@
 MARKDOWN
 
-[Chương-1.1:-Abc](#Chương-1.1:-Abc)
+[Chap1](#chap1)
 
 [chap2](#chap2)
 
 [chap3](#chap3)
 
-[chap3.2](#chap3.2)
+[Chương 3.2: ABC](#Chương-3.2:-ABC)
 
 .
 
@@ -48,7 +48,7 @@ MARKDOWN
 
 .
 
-### Chương 1.1: Abc
+### Chap1
 ugdlkjoisdiojsdofj
 
 ### chap2
@@ -70,5 +70,5 @@ vs
 d
 
 
-### <a name="chap3.2"></a>chap3.2
+### <a name="Chương-3.2:-ABC"></a>Chương 3.2: ABC
 ugdlkjoisdiojsdofj
