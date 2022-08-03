@@ -70,5 +70,5 @@ vs
 d
 
 
-### <a name="chap3.2"></a>chap3.2
+### <a name="chap3.2"></a>Chương 3
 ugdlkjoisdiojsdofj
