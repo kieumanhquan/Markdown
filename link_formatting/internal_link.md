@@ -1,6 +1,6 @@
 MARKDOWN
 
-[Chap1](#chap1)
+[Chương 1.1: Abc](#Chương-1.1:-Abc)
 
 [chap2](#chap2)
 
@@ -48,7 +48,7 @@ MARKDOWN
 
 .
 
-### Chap1
+### Chương 1.1: Abc
 ugdlkjoisdiojsdofj
 
 ### chap2
